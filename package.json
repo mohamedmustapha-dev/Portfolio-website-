@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-website",
+  "version": "0.1.0",
+  "private": true,
+  "description": "My portfolio website alongside projects and everything about my overall career.",
+  "author": "mohamedmustapha-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedmustapha-dev/Portfolio-website-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohamedmustapha-dev/Portfolio-website-/issues"
+  },
+  "homepage": "https://github.com/mohamedmustapha-dev/Portfolio-website-#readme",
+  "keywords": [
+    "portfolio",
+    "website",
+    "projects",
+    "career"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
